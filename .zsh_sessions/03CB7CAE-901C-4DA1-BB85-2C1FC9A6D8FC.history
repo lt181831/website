@@ -1,0 +1,74 @@
+python3
+python -m ensurepip
+python 
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py\
+
+python3 get-pip.py
+pip3 --version
+python3 -m pip install -upgrade pip
+pip install streamlit
+streamlit run app.py
+streamlit run app.py
+streamlit run app.py - /users/lauren/Documents/app.py
+streamlit run --help
+streamlit run app.py
+pip install streamlit-lottie
+pip install pillow
+streamlit run app.py
+$ sudo port install git
+sudo port install git
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+xcode-select --install
+C:Users\website>streamlit run app.py
+install streamlit-lottie
+pip install streamlit-lottie
+pip install requests
+pip install Pillow
+pip install pipreqs
+cd Users/website
+cd website
+cd Users
+cd /Users/website/app.py 
+cd /Users/website/
+/Users/website>pipreqs ./
+cd ~\
+
+pipreqs /Users/website/
+$ brew install git
+brew install git
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+sudo port install git
+brew tap heroku/brew && brew install heroku
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew tap heroku/brew
+brew help
+(echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/lauren/.zprofile\
+    eval "$(/opt/homebrew/bin/brew shellenv)"
+echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/lauren/.zprofile\
+    eval "$(/opt/homebrew/bin/brew shellenv
+git init
+heroku login
+heroku --version\
+heroku/7.0.0 (darwin-x64) node-v8.0.0
+curl https://cli-assets.heroku.com/install.sh | sh
+heroku --version\
+heroku/7.0.0 (darwin-x64) node-v8.0.0
+heroku --version
+git --version
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew help
+git init
+heroku --version
+heroku login
+brew install --cask heroku
+heroku --version
+brew --version
+brew update
+brew install --cask heroku
+brew tap heroku/brew && brew install heroku\
+
+heroku --version
+heroku login
+heroku create laurenthomas
+herokucreate laurenthomasinternship
+heroku create laurenthomasinternship  
