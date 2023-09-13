@@ -1,0 +1,17 @@
+# macOS system files and directories
+.DS_Store
+.Spotlight-V100
+.Trashes
+.fseventsd
+.DocumentRevisions-V100
+.TemporaryItems
+.VolumeIcon.icns
+
+# macOS user-specific directories (adjust as needed)
+Library/
+Desktop/
+Documents/
+Downloads/
+Movies/
+Music/
+Pictures/
