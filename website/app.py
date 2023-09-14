@@ -18,7 +18,7 @@ def load_lottieur1(ur1):
 # ---- LOAD ASSETS----
 lottie_coding = "https://lottie.host/f630e80a-ec02-41d6-8218-5dd3c4433192/MJoGFd6G1v.json"
 
-img_contact_form = Image.open("website/songofach.PNG")
+img_contact_form = Image.open("website/songofach.png")
 img_contact_form2 = Image.open("website/all.png")
 #can do another image the same way ("images/title")
 #-----HEADER SECTION -------
