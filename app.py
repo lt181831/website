@@ -24,7 +24,7 @@ with st.container():
     st.subheader("Hi, I am Lauren :wave:")
     st.title("I am Currently Looking for a Summer 2024 Internship Program!")
     st.write(" I am looking to gain hands-on experience working on real projects and tasks, build connections with professionals, aquire useful skills and experience, and foster practical expertise working in a professional environment. ")
-    st.write("[My Resume >](https://www.dropbox.com/scl/fi/ovi7skey1f23o9gpofat1/LAUREN-INTERNSHIP-RESUME.pdf?rlkey=ubekrz9c829kgf4az2n855hwy&dl=0)")
+    st.write("[My Resume >](https://www.dropbox.com/scl/fi/06niq4b8al85dcqktyjg9/LAUREN-INTERNSHIP-RESUME-1.pdf?rlkey=2hnzxfj3zpluvkcmigpuau5uc&dl=0)")
 
 # -----WHAT I DO -----
 with st.container():
